@@ -1,0 +1,4 @@
+# anything already in anaconda not needed
+# Add Open Street Map utilities libarary
+# see: https://github.com/gboeing/osmnx
+osmnx
