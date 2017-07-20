@@ -1,4 +1,8 @@
 # anything already in anaconda not needed
+#
+# Add Seaborn plotting library
+seaborn
+#
 # Add Open Street Map utilities libarary
 # see: https://github.com/gboeing/osmnx
 osmnx
